@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1800" viewBox="0 0 1400 1800">
+  <rect width="1400" height="1800" fill="#0b1020"/>
+  <rect x="32" y="32" width="1336" height="1736" rx="16" fill="#111827" stroke="#334155"/>
+  <text x="64" y="92" font-size="36" font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',sans-serif" fill="#93c5fd" font-weight="700">previews/site-preview.svg</text>
+  <text x="64" y="140" font-size="22" font-family="monospace" fill="#cbd5e1">Preview image generated from source file</text>
+  <rect x="64" y="170" width="1272" height="1550" rx="12" fill="#020617" stroke="#1e293b"/>
+  <foreignObject x="80" y="190" width="1240" height="1510">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; color:#e2e8f0; font-size:18px; line-height:1.45; white-space:pre-wrap;">
+&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; width=&quot;1440&quot; height=&quot;2400&quot; viewBox=&quot;0 0 1440 2400&quot;&gt;
+  &lt;rect width=&quot;1440&quot; height=&quot;2400&quot; fill=&quot;#f8fafc&quot;/&gt;
+  &lt;rect y=&quot;0&quot; width=&quot;1440&quot; height=&quot;88&quot; fill=&quot;#ffffff&quot; stroke=&quot;#e5e7eb&quot;/&gt;
+  &lt;text x=&quot;48&quot; y=&quot;54&quot; font-size=&quot;32&quot; font-family=&quot;sans-serif&quot; font-weight=&quot;700&quot; fill=&quot;#111827&quot;&gt;ミテカラ&lt;/text&gt;
+  &lt;text x=&quot;870&quot; y=&quot;54&quot; font-size=&quot;24&quot; font-family=&quot;sans-serif&quot; fill=&quot;#2563eb&quot;&gt;サービス特徴  料金  FAQ  会社概要  お問い合わせ&lt;/text&gt;
+
+  &lt;rect y=&quot;88&quot; width=&quot;1440&quot; height=&quot;520&quot; fill=&quot;#dbeafe&quot;/&gt;
+  &lt;text x=&quot;100&quot; y=&quot;210&quot; font-size=&quot;66&quot; font-family=&quot;sans-serif&quot; font-weight=&quot;700&quot; fill=&quot;#0f172a&quot;&gt;ご契約は、サイトを見てから。&lt;/text&gt;
+  &lt;text x=&quot;100&quot; y=&quot;280&quot; font-size=&quot;40&quot; font-family=&quot;sans-serif&quot; font-weight=&quot;700&quot; fill=&quot;#1f2937&quot;&gt;ホームページ制作「ミテカラ」&lt;/text&gt;
+  &lt;text x=&quot;100&quot; y=&quot;336&quot; font-size=&quot;28&quot; font-family=&quot;sans-serif&quot; fill=&quot;#334155&quot;&gt;業種ごとの「集客の勝ち筋」を、ご提案前のサンプルで先にお見せします。&lt;/text&gt;
+  &lt;rect x=&quot;100&quot; y=&quot;408&quot; rx=&quot;10&quot; width=&quot;420&quot; height=&quot;64&quot; fill=&quot;#3B82F6&quot;/&gt;
+  &lt;text x=&quot;126&quot; y=&quot;450&quot; font-size=&quot;24&quot; font-family=&quot;sans-serif&quot; fill=&quot;#fff&quot;&gt;無料で診断レポートを受け取る&lt;/text&gt;
+  &lt;rect x=&quot;540&quot; y=&quot;408&quot; rx=&quot;10&quot; width=&quot;300&quot; height=&quot;64&quot; fill=&quot;#fff&quot; stroke=&quot;#3B82F6&quot; stroke-width=&quot;2&quot;/&gt;
+  &lt;text x=&quot;575&quot; y=&quot;450&quot; font-size=&quot;24&quot; font-family=&quot;sans-serif&quot; fill=&quot;#2563eb&quot;&gt;サービスの特徴を見る&lt;/text&gt;
+
+  &lt;g transform=&quot;translate(90,680)&quot;&gt;
+    &lt;text x=&quot;0&quot; y=&quot;0&quot; font-size=&quot;42&quot; font-family=&quot;sans-serif&quot; font-weight=&quot;700&quot; fill=&quot;#0f172a&quot;&gt;ホームページ制作、こんなお悩みはございませんか？&lt;/text&gt;
+    &lt;rect x=&quot;0&quot; y=&quot;36&quot; width=&quot;1260&quot; height=&quot;88&quot; rx=&quot;12&quot; fill=&quot;#fff&quot; stroke=&quot;#e5e7eb&quot;/&gt;
+    &lt;rect x=&quot;0&quot; y=&quot;136&quot; width=&quot;1260&quot; height=&quot;88&quot; rx=&quot;12&quot; fill=&quot;#fff&quot; stroke=&quot;#e5e7eb&quot;/&gt;
+    &lt;rect x=&quot;0&quot; y=&quot;236&quot; width=&quot;1260&quot; height=&quot;88&quot; rx=&quot;12&quot; fill=&quot;#fff&quot; stroke=&quot;#e5e7eb&quot;/&gt;
+  &lt;/g&gt;
+
+  &lt;g transform=&quot;translate(90,1080)&quot;&gt;
+    &lt;text x=&quot;0&quot; y=&quot;0&quot; font-size=&quot;42&quot; font-family=&quot;sans-serif&quot; font-weight=&quot;700&quot; fill=&quot;#0f172a&quot;&gt;ミテカラが選ばれる、4つの理由&lt;/text&gt;
+    &lt;rect x=&quot;0&quot; y=&quot;36&quot; width=&quot;610&quot; height=&quot;220&quot; rx=&quot;14&quot; fill=&quot;#fff&quot; stroke=&quot;#e5e7eb&quot;/&gt;
+    &lt;rect x=&quot;650&quot; y=&quot;36&quot; width=&quot;610&quot; height=&quot;220&quot; rx=&quot;14&quot; fill=&quot;#fff&quot; stroke=&quot;#e5e7eb&quot;/&gt;
+    </div>
+  </foreignObject>
+</svg>

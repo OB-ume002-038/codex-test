@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1800" viewBox="0 0 1400 1800">
+  <rect width="1400" height="1800" fill="#0b1020"/>
+  <rect x="32" y="32" width="1336" height="1736" rx="16" fill="#111827" stroke="#334155"/>
+  <text x="64" y="92" font-size="36" font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',sans-serif" fill="#93c5fd" font-weight="700">contact/index.html</text>
+  <text x="64" y="140" font-size="22" font-family="monospace" fill="#cbd5e1">Preview image generated from source file</text>
+  <rect x="64" y="170" width="1272" height="1550" rx="12" fill="#020617" stroke="#1e293b"/>
+  <foreignObject x="80" y="190" width="1240" height="1510">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; color:#e2e8f0; font-size:18px; line-height:1.45; white-space:pre-wrap;">
+&lt;!doctype html&gt;&lt;html lang=&quot;ja&quot;&gt;&lt;head&gt;&lt;meta charset=&quot;UTF-8&quot;&gt;&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,initial-scale=1&quot;&gt;&lt;title&gt;お問い合わせ | ミテカラ&lt;/title&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;/styles.css&quot;&gt;&lt;/head&gt;&lt;body&gt;&lt;header&gt;&lt;div class=&quot;container nav&quot;&gt;&lt;div class=&quot;logo&quot;&gt;ミテカラ&lt;/div&gt;&lt;/div&gt;&lt;/header&gt;&lt;main class=&quot;container&quot;&gt;&lt;section&gt;&lt;h1&gt;お問い合わせ&lt;/h1&gt;&lt;p&gt;48時間以内にご返信いたします。&lt;/p&gt;&lt;form action=&quot;/contact/thanks.html&quot;&gt;&lt;div class=&quot;row&quot;&gt;&lt;label&gt;お問い合わせ内容&lt;/label&gt;&lt;select&gt;&lt;option&gt;無料診断レポートを受け取りたい&lt;/option&gt;&lt;option&gt;サンプルサイトを作ってほしい&lt;/option&gt;&lt;option&gt;お見積りを依頼したい&lt;/option&gt;&lt;option&gt;サービス内容について質問したい&lt;/option&gt;&lt;option&gt;その他&lt;/option&gt;&lt;/select&gt;&lt;/div&gt;&lt;div class=&quot;row&quot;&gt;&lt;label&gt;会社名・屋号&lt;/label&gt;&lt;input required&gt;&lt;/div&gt;&lt;div class=&quot;row&quot;&gt;&lt;label&gt;お名前&lt;/label&gt;&lt;input required&gt;&lt;/div&gt;&lt;div class=&quot;row&quot;&gt;&lt;label&gt;メールアドレス&lt;/label&gt;&lt;input type=&quot;email&quot; required&gt;&lt;/div&gt;&lt;div class=&quot;row&quot;&gt;&lt;label&gt;&lt;input type=&quot;checkbox&quot; required&gt; プライバシーポリシーに同意します&lt;/label&gt;&lt;/div&gt;&lt;button class=&quot;btn&quot; type=&quot;submit&quot;&gt;送信する&lt;/button&gt;&lt;/form&gt;&lt;p&gt;電話: &lt;a href=&quot;tel:{田中さん直通の番号}&quot;&gt;{田中さん直通の番号}&lt;/a&gt;（平日10:00〜18:00）&lt;/p&gt;&lt;/section&gt;&lt;/main&gt;&lt;/body&gt;&lt;/html&gt;
+    </div>
+  </foreignObject>
+</svg>
