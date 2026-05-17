@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1800" viewBox="0 0 1400 1800">
+  <rect width="1400" height="1800" fill="#0b1020"/>
+  <rect x="32" y="32" width="1336" height="1736" rx="16" fill="#111827" stroke="#334155"/>
+  <text x="64" y="92" font-size="36" font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',sans-serif" fill="#93c5fd" font-weight="700">pricing.html</text>
+  <text x="64" y="140" font-size="22" font-family="monospace" fill="#cbd5e1">Preview image generated from source file</text>
+  <rect x="64" y="170" width="1272" height="1550" rx="12" fill="#020617" stroke="#1e293b"/>
+  <foreignObject x="80" y="190" width="1240" height="1510">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; color:#e2e8f0; font-size:18px; line-height:1.45; white-space:pre-wrap;">
+&lt;!doctype html&gt;&lt;html lang=&quot;ja&quot;&gt;&lt;head&gt;&lt;meta charset=&quot;UTF-8&quot;&gt;&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,initial-scale=1&quot;&gt;&lt;title&gt;料金プラン | ミテカラ&lt;/title&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;/styles.css&quot;&gt;&lt;/head&gt;&lt;body&gt;
+&lt;header&gt;&lt;div class=&quot;container nav&quot;&gt;&lt;div class=&quot;logo&quot;&gt;ミテカラ&lt;/div&gt;&lt;nav class=&quot;nav-links&quot;&gt;&lt;a href=&quot;/&quot;&gt;トップ&lt;/a&gt;&lt;a href=&quot;/faq.html&quot;&gt;FAQ&lt;/a&gt;&lt;a href=&quot;/about.html&quot;&gt;会社概要&lt;/a&gt;&lt;a class=&quot;btn&quot; href=&quot;/contact/index.html&quot;&gt;お問い合わせ&lt;/a&gt;&lt;/nav&gt;&lt;/div&gt;&lt;/header&gt;
+&lt;main class=&quot;container&quot;&gt;&lt;section&gt;&lt;h1&gt;料金プラン&lt;/h1&gt;&lt;p&gt;業種別のパターン化により、業界相場の約30%割安にてご提供しています。&lt;/p&gt;&lt;div class=&quot;card&quot;&gt;&lt;h2&gt;ライト 20〜35万円（税抜）&lt;/h2&gt;&lt;p&gt;1〜3ページ / お問い合わせフォーム / SSL / 公開作業 / 公開後1ヶ月軽微修正。&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;card&quot;&gt;&lt;h2&gt;スタンダード 50〜70万円（税抜）★おすすめ&lt;/h2&gt;&lt;p&gt;5〜8ページ / お知らせ投稿機能 / 計測設定 / DNS・メール確認込み。&lt;/p&gt;&lt;/div&gt;&lt;div class=&quot;card&quot;&gt;&lt;h2&gt;プレミアム 100〜150万円（税抜）&lt;/h2&gt;&lt;p&gt;10ページ以上 / 撮影込み / 採用ページ専用設計 / 公開後6ヶ月保守付き。&lt;/p&gt;&lt;/div&gt;&lt;/section&gt;&lt;section&gt;&lt;h2&gt;月額保守&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;ライト保守: 月¥10,000〜¥15,000&lt;/li&gt;&lt;li&gt;スタンダード保守: 月¥25,000〜¥35,000&lt;/li&gt;&lt;li&gt;プレミアム保守: 月¥50,000〜¥80,000&lt;/li&gt;&lt;/ul&gt;&lt;/section&gt;&lt;/main&gt;
+&lt;footer&gt;&lt;div class=&quot;container&quot;&gt;&lt;a href=&quot;/legal/tokutei.html&quot;&gt;特商法&lt;/a&gt; / &lt;a href=&quot;/legal/privacy.html&quot;&gt;プライバシーポリシー&lt;/a&gt;&lt;/div&gt;&lt;/footer&gt;
+&lt;/body&gt;&lt;/html&gt;
+    </div>
+  </foreignObject>
+</svg>
